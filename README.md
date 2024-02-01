@@ -1,3 +1,7 @@
+### Introduction
+
+This is code for the thesis "Clustering Social Network Texts". It allows the generation of a dataset of custom size and evaluation of any models (text embeddings, dimensionality reduction techniques, and clustering algorithms) with further analysis.
+
 ### Setup
 
 The required libraries can be found in **misc/requirements.txt** and installed via pip as:
